@@ -1,4 +1,4 @@
-![image](https://github.com/affodilajF/SpringFramework-Selflearning/assets/130672181/69808c17-ded4-4c1b-878a-4eb7bc51804b)
+
 # Inversion Of Control (IoC)
 - An principal in software development
 - Migrating the control of object or program to framework container.
