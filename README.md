@@ -1,3 +1,4 @@
+JPA KI ORM 
 
 # DATA SOURCE 
 - Kalo pake Spring Data JPA dan Spring Boot, otomatis dibuatkan DataSource. Jd gperlu bikin scr manual.
